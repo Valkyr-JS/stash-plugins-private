@@ -1,7 +1,7 @@
 name: My Stash Theme
 description: Custom theming for StashApp to my personal taste.
 url: https://github.com/Valkyr-JS/MyStashTheme
-version: 1.0.0
+version: 1.1.0
 ui:
   css:
     - MyStashTheme.css
